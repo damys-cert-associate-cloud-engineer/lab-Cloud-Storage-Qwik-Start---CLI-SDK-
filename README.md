@@ -14,8 +14,9 @@ Cloud Storage: Qwik Start - CLI/SDK
 ## delete ACL permissions
 ## remove the image
 
- <br />
 # add permission to excecution to the sh file
+```BASH
 chmod +x run-lab.sh
- <br />
-### NOTE: All the labs need to run to know the regions o extra data necesary to finish it, so please take the data from BASH file as temporal and chenge variables as you get it from lab side."""
+```
+
+### NOTE: All the labs need to run to know the regions o extra data necesary to finish it, so please take the data from BASH file as temporal and chenge variables as you get it from lab side.###
