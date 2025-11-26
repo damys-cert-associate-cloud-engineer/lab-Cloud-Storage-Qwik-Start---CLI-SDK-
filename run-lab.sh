@@ -2,7 +2,7 @@
 # Set all variables to start de script
 PROJECT=$(gcloud config get-value project)
 BUCKET_NAME="$PROJECT-bucket"
-REGION="us-east1"
+REGION="europe-west1"
 ZONE="us-east1-c"
 IMAGE_NAME="ada.jpg"
 FOLDER_NAME="image-folder"
